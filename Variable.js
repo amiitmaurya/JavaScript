@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const accountId =3110     // Constant which can'be change
 let accountEmail ="amitmaurya921@gmail.com" //
 var accountPassword="12345" //can be change
@@ -13,7 +12,3 @@ accountCity="Delhi"
 console.table([accountEmail, accountId, accountPassword, accountCity, accountState])
 /* prefer not to use var for declear variable due to block  scope{} and function scope issue*/
 /* Semicolumn is not mandetory to use */
-=======
-console.log("Amit")
-console.log("Maurya")
->>>>>>> f99d163 (Add Variable.js and basic.js with initial variable declarations and console logs)
